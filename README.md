@@ -8,15 +8,7 @@ This project is a clone of RazorPay, a popular payment gateway solution, built u
 - **Payment Processing**: Simulates payment processing flow similar to RazorPay.
 - **Clean UI**: Mimics the clean and intuitive user interface of RazorPay for seamless user experience.
 
-## Demo
 
-[View Demo](#) <!-- Add link to your live demo if available -->
-
-## Screenshots
-
-<!-- Add screenshots of your application to showcase its UI -->
-<!-- ![Screenshot 1](/screenshots/screenshot1.png) -->
-<!-- ![Screenshot 2](/screenshots/screenshot2.png) -->
 
 ## Installation
 
