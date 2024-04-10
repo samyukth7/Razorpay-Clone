@@ -48,4 +48,4 @@ Acknowledgements
 Tailwind CSS - A utility-first CSS framework.
 RazorPay - Original inspiration for this project.
 Contact
-For any inquiries or feedback, please contact your-samyakthmalgatti2002@gmail.com .
+For any inquiries or feedback, please contact samyakthmalgatti2002@gmail.com .
